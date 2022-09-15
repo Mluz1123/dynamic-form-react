@@ -13,7 +13,7 @@ export default function NavbarMenu() {
             <Navbar.Text>
               Signed is as:{" "}
               <a
-                href="https://rafatarrega.com"
+                href="https://github.com/Mluz1123/"
                 target="_blank"
                 rel="noreferrer"
               >
