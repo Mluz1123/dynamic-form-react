@@ -6,12 +6,11 @@
     width: fit-content;
     margin: 0  auto;
 }
-.dynamic-form p {
+.dynamic-form h2 {
     display: inline;
     padding-right: 5px;
     background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
         -webkit-background-clip: text;
-        background-clip: text;
         -webkit-text-fill-color: transparent;
 }
 .dynamic-form .content-dynamic-form {
@@ -30,8 +29,9 @@
 }
 .dynamic-form .steps-numbers {
     text-align: left;
+    font-size: 15px;
     padding: 15px 0 0 40px;
-    font-weight: 900;
+    font-weight: 700;
 }
 @media ( max-width: 678px){
     .dynamic-form .content-dynamic-form{
